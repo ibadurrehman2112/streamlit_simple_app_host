@@ -92,5 +92,5 @@ plt.xlabel("Principal Component 1")
 plt.ylabel("Principal Component 2")
 plt.colorbar()
 
-#plt.show()
+
 st.pyplot(fig)
