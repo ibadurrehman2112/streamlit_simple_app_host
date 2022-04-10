@@ -5,15 +5,15 @@ The code included in this repository allows us to toggle between three datasets:
 
 ## Using SVM on the Breast Cancer Dataset
 
-<img src="webapp_pictures/result1.png" width="700" >
+<img src="webapp_pics/result1.png" width="700" >
 
 ## Using KNN on the Breast Cancer Dataset
 
-<img src="webapp_pictures/result2.png" width="700" >
+<img src="webapp_pics/result2.png" width="700" >
 
 ## Using RFC on the Breast Cancer Dataset
 
-<img src="webapp_pictures/result3.png" width="700" >
+<img src="webapp_pics/result3.png" width="700" >
 
 As we can see it performs real time predictions and shows the accuracy.
 
